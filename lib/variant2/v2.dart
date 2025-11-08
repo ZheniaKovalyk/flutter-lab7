@@ -26,7 +26,7 @@ const SizedBox(height: 100),
               width: 150,
               height: 150,
               decoration: BoxDecoration(
-                color: Colors.red,
+                color: Colors.blue,
                 borderRadius: BorderRadius.only(
                   topLeft: Radius.circular(_topLeft),
                   topRight: Radius.circular(_topRight),
